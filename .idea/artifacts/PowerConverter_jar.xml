@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PowerConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PowerConverter_jar</output-path>
+    <root id="archive" name="PowerConverter.jar">
+      <element id="module-output" name="PowerConverter" />
+    </root>
+  </artifact>
+</component>
